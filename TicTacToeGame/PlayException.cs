@@ -1,4 +1,4 @@
-﻿namespace Jogo.Velha
+﻿namespace TicTacToeGame
 {
     /// <summary>
     /// Exceção lançada quando ocorre algum problema na jogada feita pelo jogador.

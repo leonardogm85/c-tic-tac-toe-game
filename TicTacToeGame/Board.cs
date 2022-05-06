@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Jogo.Velha
+namespace TicTacToeGame
 {
     /// <summary>
     /// Tabuleiro do jogo da velha.

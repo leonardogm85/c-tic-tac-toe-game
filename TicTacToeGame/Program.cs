@@ -1,4 +1,4 @@
-﻿namespace Jogo.Velha
+﻿namespace TicTacToeGame
 {
     class Program
     {

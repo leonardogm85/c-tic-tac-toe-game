@@ -1,4 +1,4 @@
-﻿namespace Jogo.Velha
+﻿namespace TicTacToeGame
 {
     /// <summary>
     /// Itens que podem fazer parte do tabuleiro.
