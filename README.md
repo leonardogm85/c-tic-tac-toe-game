@@ -1,2 +1,2 @@
-# jogo-velha
-Jogo da Velha
+# c-tic-tac-toe-game
+Tic Tac Toe Game
